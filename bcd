@@ -1,0 +1,16 @@
+ *
+        {
+            box-sizing:border-box;
+            font-family:'Comic Sans MS';
+        }
+
+        #iamdiv
+        {
+            padding:30px;
+        }
+
+        section
+        {
+          margin:4% 2% 1% 2%;
+
+        }
